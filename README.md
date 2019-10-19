@@ -1,2 +1,2 @@
-# fikri
+# fikri.github.io
 Designshop
